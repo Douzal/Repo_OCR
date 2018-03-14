@@ -1,0 +1,1 @@
+ecriture dans le fichier vide via la commande echo >
