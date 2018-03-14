@@ -1,0 +1,1 @@
+Voici une description du projet : c'est un projet type pour OCR pour Git. J'y cree puis modifie des fichiers en ligne de commande. Ceci est une description, creee via echo description > NomFichier.txt pour ecriture direct de description dans NomFichier.txt
