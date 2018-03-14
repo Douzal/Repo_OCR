@@ -1,4 +1,2 @@
-VOici ce que je veux ecrire
-on
-veut
-sortiiiiir CTRL D ne foncitonne pas ?
+Modification du fichier, via vim
+
